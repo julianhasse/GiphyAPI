@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Shojumaru');
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url('../images/back.jpg');
+}
+
+.jumbotron {
+	height:300px;
+	padding:20px
+
+}
+.title {
+	font-family: 'Shojumaru', cursive;
+	color:#2E5D2E !important; 
+}
+
+.subtitle, {
+	font-family: 'Acme', sans-serif;
+}
+
+.container {
+ 	overflow: hidden;
+  	width: 80%;
+	margin: 0 auto;
+}
+
+button {
+	background-color: #008CBA;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 3px;
+	border: none;
+	color: #e7e7e7;
+}
+
+#buttons {
+	background-color: #e7e7e7;
+	padding: 50px;
+	border-radius: 5px;
+
+}
+
+#add-animal {
+	background-color: #0097CA;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 3px;
+	border: none;
+	color: #e7e7e7;
+}
+
+.item {
+	float: left;
+	margin: 50px;
+	font-family: 'Acme', sans-serif;
+	color:white;
+	background-color: #0097CA;
+	border-radius: 10px;
+	padding:10px;
+	font-size: 15px;
+}
+
+.car {
+background-color: #0097CA;
+}
